@@ -78,5 +78,11 @@ Repositório para implementação e estudo dos códigos desenvolvidos durante o 
 
     - **Desafio 02: Organizando Estoque:** Você é o novo gerente de uma rede de lojas de departamento e precisa organizar o estoque de produtos. Cada loja possui um código único e você deve calcular o total de produtos disponíveis em cada uma delas. Aceite o desafio e ajude a empresa a otimizar seu estoque! **Entrada**: A entrada deve receber uma string contendo os códigos das lojas e a quantidade de produtos, separados por vírgulas. Cada loja e sua quantidade devem ser representadas no formato "codigo:quantidade". A entrada terá no máximo 1000 caracteres. **Saída**: Deverá retornar uma string com os códigos das lojas e o total de produtos disponíveis em cada uma, no formato "codigo:total", separados por vírgulas.
 
+- **Desafios de Projetos**
+
+    - **JavaBank**: Projeto desenvolvido em acompanhamento da aula, em que foi implementada uma aplicação que simula um sistema bancário, sendo possível realizar a criação de contas, depósitos, saques, transferências via PIX, criação de investimentos e acompanhamento de histórico de transações. O objetivo deste projeto foi aprofundar os conceitos relacionados a Programação Orientada a Objetos, como herança, encapsulamento, polimorfismo, abstração e reuso de código. Como desafio pessoal neste projeto, optou-se em desenvolver os getters manualmente, ao contrário do projeto desenvolvido em aula ([Github Projeto DIO](https://github.com/digitalinnovationone/java-bank)), que foi criado com a ferramenta Gradle e utilizada a biblioteca Lombok.
+
+        Acessar projeto [**JavaBank**](https://github.com/astorti/Bootcamp-Riachuelo-Primeiros-Passos-com-Java-DIO/DesafiosDeProjeto/JavaBank)
+
 <hr>
 <hr>
